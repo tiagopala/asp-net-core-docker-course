@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GeneratorApi</name>
+    </assembly>
+    <members>
+        <member name="M:GeneratorApi.Controllers.GeneratorController.Names">
+            <summary>
+            Get 3 Random Names
+            </summary>
+            <returns>A list of 3 random names</returns>
+            <response code="200">Returns a list with 3 random names</response>
+        </member>
+        <member name="M:GeneratorApi.Controllers.GeneratorController.Numbers">
+            <summary>
+            Get 3 Random Numbers
+            </summary>
+            <returns>A list of 3 random numbers</returns>
+            /// <response code="200">Returns a list with 3 random numbers</response>
+        </member>
+    </members>
+</doc>
